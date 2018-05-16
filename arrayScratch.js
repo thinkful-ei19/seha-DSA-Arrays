@@ -122,9 +122,6 @@ function main() {
   //The puspose of the _resize function is to allocate more space for actions that 
   //need to be stored. When we need to more space we call _resize function via push() and 
   //insert() functions. 
-
-
- 
   
 }
 
